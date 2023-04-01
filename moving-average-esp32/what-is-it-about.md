@@ -1,4 +1,4 @@
-## Simple Semaphore using Arduino-Uno
+## Moving Average of Temperature and Humidity using EPS32
 An ESP32 microcontroller and a DHT22 temperature and humidity sensor were used. In one core, the values of temperature and humidity were taken and in the second core, the moving average was calculated.
 
 ### Source Code
