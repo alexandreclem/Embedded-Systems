@@ -11,20 +11,20 @@ The source code can be found in the **src** directory.
 
 ### Assembly using the Woki Platform
 <p align="center" width="100%">
-    <img width="80%" src="./images/woki-sim.png">    
+    <img width="70%" src="./images/woki-sim.png">    
 </p>
 
 ### Practical Assembly
 <p align="center" width="100%">
-    <img width="50%" src="./images/assembly-in-practice.png">    
+    <img width="40%" src="./images/assembly-in-practice.png">    
 </p>
 
 ### Temperature Analysis
 <p align="center" width="100%">
-    <img width="100%" src="./images/moving-average-temp.png">    
+    <img width="90%" src="./images/moving-average-temp.png">    
 </p>
 
 ### Humidity Analysis
 <p align="center" width="100%">
-    <img width="100%" src="./images/moving-average-hum.png">    
+    <img width="90%" src="./images/moving-average-hum.png">    
 </p>
