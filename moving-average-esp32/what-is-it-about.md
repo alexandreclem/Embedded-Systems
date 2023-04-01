@@ -11,7 +11,7 @@ The source code can be found in the **src** directory.
 
 ### Assembly using the Woki Platform
 <p align="center" width="100%">
-    <img width="100%" src="./images/woki-sim.png">    
+    <img width="80%" src="./images/woki-sim.png">    
 </p>
 
 ### Practical Assembly
