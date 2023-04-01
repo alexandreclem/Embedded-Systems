@@ -5,7 +5,7 @@
     <img width="100%" src="https://github.com/alexandreclem/Embedded-Systems/blob/master/simple-semaphore/images/tinkercad.png">    
 </p>
 
-### Practical Assembly using 
+### Practical Assembly
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/alexandreclem/Embedded-Systems/blob/master/simple-semaphore/images/practical.png">    
+    <img width="70%" src="https://github.com/alexandreclem/Embedded-Systems/blob/master/simple-semaphore/images/practical.png">    
 </p>
